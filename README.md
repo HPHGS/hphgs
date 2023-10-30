@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, world! 👋
+
+I'm HP. Not much about me, to be honest.
+
+- 🔭 I’m currently working on a global notes app using HTML, JS, and PHP.
+- 🌱 I’m currently learning web development, specifically JS at the moment.
+- 📫 How to reach me: N/A
 
 <!--
 **HPHGS/hphgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
