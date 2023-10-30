@@ -18,7 +18,7 @@ Don't hesitate to send me an email if you want to ask something, I will reply as
 <div style="display: flex;">
   <a href=""><img src="https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord&label=haz7a"></a>
   <a href="https://twitter.com/haz7a_"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&label=haz7a_"></a>
-  <a href="https://youtube.com/@HPHGS"><img src="https://img.shields.io/badge/-YouTube-black?style=for-the-badge&logo=youtube&label=HPHGS"></a>
+  <a href="https://youtube.com/@HP-HAZ"><img src="https://img.shields.io/badge/-YouTube-black?style=for-the-badge&logo=youtube&label=HP-HAZ"></a>
   <a href="mailto:hphgs@hotmail.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&label=hphgs@hotmail.com"></a>
 </div>
 
