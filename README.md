@@ -26,9 +26,6 @@ Edit: I'm learning how to use Git in terminal :D</p>
   <a href="mailto:hphgs@hotmail.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&label=hphgs@hotmail.com"></a>
 </div>
 
-## Join this Discord server to meet thousands of fellow coders:
-<a href="https://discord.gg/3chuca3EMh"><img src="https://discord.com/api/guilds/783359069993435146/widget.png?style=banner2"></a>
-
 <br>
 <div style="display: flex; width:100%; ">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hphgs&show_icons=true&theme=rose_pine" />
