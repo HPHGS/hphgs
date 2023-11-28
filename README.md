@@ -6,9 +6,7 @@
 
 This profile contains most of the public work I do, as well as my contact info if someone wants to contact me. 
 
-Don't hesitate to send me an email if you want to ask something, I will reply as soon as I can :D
-
-Edit: I'm learning how to use Git in terminal :D</p>
+Don't hesitate to send me an email if you want to ask something, I will reply as soon as I can :D</p>
 
 ## Technologies that I know how to use
 
