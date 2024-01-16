@@ -2,7 +2,7 @@
 
 <img src="https://yt3.googleusercontent.com/fZ7S2Lo83t4dfXRhC7cT1jJIaCe3cZz6bZVR6OpyPYnzJosIUsixXF8H1ISrr1tcBt-aYmnlZg=w1060-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj">
 
-<p>Hello, my name is HP, also known as Haz online. I'm a developer with a passion for web development and everything surrounding it. HTML, CSS, JS, Frameworks etc. I like em all.
+<p>Hello, my name is HP, also known as Haz online. I'm a developer with a passion for web development and everything surrounding it. HTML, CSS, JS, Frameworks etc. I like them all.
 
 This profile contains most of the public work I do, as well as my contact info if someone wants to contact me. 
 
